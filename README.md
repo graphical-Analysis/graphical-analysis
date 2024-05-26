@@ -4,6 +4,10 @@
 <h3 align="center">Aspiring Data Analyst with a strong passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/7a/61/c87a61d044f12c68d682fc06efd8e175.gif">
 
+Hello everyone! I'm Bijoy, a data analyst who loves to make sense of tricky data puzzles. I'm skilled in using Python, SQL, and tools for making data easy to understand. I enjoy using data to solve problems and help businesses make smart choices for success. 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=graphical-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="graphical-analysis" /> </p>
 
 - 🌱 I’m currently learning **PowerBI**

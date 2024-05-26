@@ -5,11 +5,11 @@
 
 ### About Me: 
 
-Hello, I'm Bijoy! I work with data to find important information. I use computer programs like Python and SQL to help me. With these tools, I can make data easier to understand. I also use special programs to create charts and graphs. These show the data in a visual way. I enjoy solving puzzles, and data analysis is like solving a big puzzle!
+#### Hello, I'm Bijoy! I work with data to find important information. I use computer programs like Python and SQL to help me. With these tools, I can make data easier to understand. I also use special programs to create charts and graphs. These show the data in a visual way. I enjoy solving puzzles, and data analysis is like solving a big puzzle!
 
-My goal is to help businesses make better decisions. By looking at data, I can find patterns and trends. Then, I explain what I find to others.
+#### My goal is to help businesses make better decisions. By looking at data, I can find patterns and trends. Then, I explain what I find to others.
 
-Communication is a big part of my job. I like sharing my discoveries with my team. Together, we can make smarter choices. I pay attention to details and always double-check my work. Accuracy is important in data analysis. When I'm not analyzing data, I enjoy spending time outdoors. Hiking and exploring new places refresh my mind. Overall, I'm passionate about using data to make a positive impact. Let's connect and explore more together!
+#### Communication is a big part of my job. I like sharing my discoveries with my team. Together, we can make smarter choices. I pay attention to details and always double-check my work. Accuracy is important in data analysis. When I'm not analyzing data, I enjoy spending time outdoors. Hiking and exploring new places refresh my mind. Overall, I'm passionate about using data to make a positive impact. Let's connect and explore more together!
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/7a/61/c87a61d044f12c68d682fc06efd8e175.gif">

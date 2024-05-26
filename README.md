@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bijoy Paul</h1>
 <h3 align="center">Aspiring Data Analyst with a strong passion.</h3>
-<img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/7a/61/c87a61d044f12c68d682fc06efd8e175.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=graphical-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="graphical-analysis" /> </p>
 

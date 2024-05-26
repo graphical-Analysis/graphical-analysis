@@ -1,24 +1,26 @@
-![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQHXO5UtgooRYA/profile-displaybackgroundimage-shrink_350_1400/0/1708351001302?e=1722470400&v=beta&t=rDvaYaLl-f5ct0kq7fc7EirqrOsbmCBxj27ocmWQK5o)
+<h1 align="center">Hi 👋, I'm Bijoy Paul</h1>
+<h3 align="center">Aspiring Data Analyst with a strong passion.</h3>
 
-### Hi there 👋, I am Bijoy Paul
-####  Aspiring Data Analyst with a passion 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=graphical-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="graphical-analysis" /> </p>
 
+- 🌱 I’m currently learning **Excel, MySQL, PowerBI**
 
+- 💬 Ask me about **Data Analysis, Business Decision**
 
-Hello everyone! I'm Bijoy, a data analyst who loves to make sense of tricky data puzzles. I'm skilled in using Python, SQL, and tools for making data easy to understand. I enjoy using data to solve problems and help businesses make smart choices for success. 
+- 📫 How to reach me **bijoy.corporate@gmail.com**
 
-Skills: Excel/ Data Analysis / Problem Solving / Data Visualization
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🌱 I’m currently learning PowerBI 
-- 💬 Ask me about Business Decision, Problem Solving 
-- 📫 How to reach me: bijoy.corporate@gmail.com 
-- 😄 Pronouns: HE/HIM 
-- ⚡ Fun fact: Over Thinking😅 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/graphical-Analysis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="graphical-Analysis" /></a></p><br><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/graphical-Analysis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bijoy-dataanalyst//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100084254133749)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/kittsofar)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=graphical-analysis&show_icons=true&locale=en&layout=compact" alt="graphical-analysis" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphical-Analysis)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graphical-analysis&show_icons=true&locale=en" alt="graphical-analysis" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=graphical-Analysis&show_icons=true)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphical-analysis&" alt="graphical-analysis" /></p>

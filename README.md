@@ -1,3 +1,5 @@
+![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQHXO5UtgooRYA/profile-displaybackgroundimage-shrink_350_1400/0/1708351001302?e=1722470400&v=beta&t=rDvaYaLl-f5ct0kq7fc7EirqrOsbmCBxj27ocmWQK5o)
+
 <h1 align="center">Hi 👋, I'm Bijoy Paul</h1>
 <h3 align="center">Aspiring Data Analyst with a strong passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">

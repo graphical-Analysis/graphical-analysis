@@ -1,4 +1,4 @@
-![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQHXO5UtgooRYA/profile-displaybackgroundimage-shrink_350_1400/0/1708351001302?e=1722470400&v=beta&t=rDvaYaLl-f5ct0kq7fc7EirqrOsbmCBxj27ocmWQK5o)
+![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQFGRug6WqIEaA/profile-displaybackgroundimage-shrink_350_1400/0/1716732149489?e=1722470400&v=beta&t=TfShWTG98dQVrubJMun4NRjvPULAyBOW7se4aow0Dro)
 
 <h1 align="center">Hi 👋, I'm Bijoy Paul</h1>
 <h3 align="center">Aspiring Data Analyst with a strong passion.</h3>

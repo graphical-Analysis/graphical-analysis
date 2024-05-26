@@ -2,6 +2,7 @@
 
 ### Hi there 👋, I am Bijoy Paul
 ####  Aspiring Data Analyst with a passion 
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*A5mRQbs04WyJsnqGMJKhCg.gif)")
 
 
 Hello everyone! I'm Bijoy, a data analyst who loves to make sense of tricky data puzzles. I'm skilled in using Python, SQL, and tools for making data easy to understand. I enjoy using data to solve problems and help businesses make smart choices for success. 

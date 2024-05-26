@@ -1,6 +1,8 @@
+![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQHXO5UtgooRYA/profile-displaybackgroundimage-shrink_350_1400/0/1708351001302?e=1722470400&v=beta&t=rDvaYaLl-f5ct0kq7fc7EirqrOsbmCBxj27ocmWQK5o)
+
 ### Hi there 👋, I am Bijoy Paul
 ####  Aspiring Data Analyst with a passion 
-![ Aspiring Data Analyst with a passion ](https://media.licdn.com/dms/image/D5616AQHXO5UtgooRYA/profile-displaybackgroundimage-shrink_350_1400/0/1708351001302?e=1722470400&v=beta&t=rDvaYaLl-f5ct0kq7fc7EirqrOsbmCBxj27ocmWQK5o)
+
 
 Hello everyone! I'm Bijoy, a data analyst who loves to make sense of tricky data puzzles. I'm skilled in using Python, SQL, and tools for making data easy to understand. I enjoy using data to solve problems and help businesses make smart choices for success. 
 

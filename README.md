@@ -12,7 +12,7 @@
 #### Communication is a big part of my job. I like sharing my discoveries with my team. Together, we can make smarter choices. I pay attention to details and always double-check my work. Accuracy is important in data analysis. When I'm not analyzing data, I enjoy spending time outdoors. Hiking and exploring new places refresh my mind. Overall, I'm passionate about using data to make a positive impact. Let's connect and explore more together!
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/7a/61/c87a61d044f12c68d682fc06efd8e175.gif">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 
 
@@ -23,7 +23,7 @@
 - 💬 Ask me about **Data Analysis, Business Decision**
 
 - 📫 How to reach me **bijoy.corporate@gmail.com**
-
+  
 - ⚡ Fun fact **Over Thinking😅**
 
 <h3 align="left">Connect with me:</h3>
